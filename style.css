@@ -1,5 +1,7 @@
-body {background-color:white;border: black;}
-h1{color:grey; text-align: center;font-family:Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;}
+body {background-color: black;font-family:arial; color: white}
+h1{color:grey; text-align: center;font-family:Verdana; font-weight: bold;}
+.maindiv{background-color: white; color:black; width:300 pixels; padding:20 pixels;
+}
 
 
 

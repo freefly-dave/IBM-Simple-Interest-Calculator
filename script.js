@@ -6,6 +6,8 @@ function compute()
     var interest = principal * years * rate / 100;
     var year = new Date().getFullYear()+parseInt(years);
 
+    // this states if the principal box doesnt have a positive integer then an error message appears and once the ok button is selected the curser focuses back on the principal input box
+   
     if(principal <= 0)
     {
         alert("Enter a Positive Number");
